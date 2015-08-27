@@ -1,0 +1,10 @@
+{
+  "name": "_4.Begger",
+  "version": "0.0.0",
+  "description": "4.Begger",
+  "main": "app.js",
+  "author": {
+    "name": "Martin",
+    "email": ""
+  }
+}

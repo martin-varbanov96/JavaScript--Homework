@@ -1,0 +1,10 @@
+{
+  "name": "_6.MaxSeq",
+  "version": "0.0.0",
+  "description": "6.MaxSeq",
+  "main": "app.js",
+  "author": {
+    "name": "Martin",
+    "email": ""
+  }
+}

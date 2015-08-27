@@ -1,0 +1,10 @@
+{
+  "name": "loop",
+  "version": "0.0.0",
+  "description": "loop",
+  "main": "app.js",
+  "author": {
+    "name": "Martin",
+    "email": ""
+  }
+}

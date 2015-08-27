@@ -1,0 +1,10 @@
+{
+  "name": "_02.DisplayDivContent",
+  "version": "0.0.0",
+  "description": "02.DisplayDivContent",
+  "main": "app.js",
+  "author": {
+    "name": "Martin",
+    "email": ""
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "name": "decimal",
+  "version": "0.0.0",
+  "description": "decimal",
+  "main": "app.js",
+  "author": {
+    "name": "Martin",
+    "email": ""
+  }
+}

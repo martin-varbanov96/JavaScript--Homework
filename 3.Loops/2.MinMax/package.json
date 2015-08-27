@@ -1,0 +1,10 @@
+{
+  "name": "_2.MinMax",
+  "version": "0.0.0",
+  "description": "2.MinMax",
+  "main": "app.js",
+  "author": {
+    "name": "Martin",
+    "email": ""
+  }
+}

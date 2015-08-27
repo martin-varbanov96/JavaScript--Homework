@@ -1,0 +1,10 @@
+{
+  "name": "_2.nthDigit",
+  "version": "0.0.0",
+  "description": "2.nthDigit",
+  "main": "app.js",
+  "author": {
+    "name": "Martin",
+    "email": ""
+  }
+}

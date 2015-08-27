@@ -1,0 +1,10 @@
+{
+  "name": "_1.LastDigit",
+  "version": "0.0.0",
+  "description": "1.LastDigit",
+  "main": "app.js",
+  "author": {
+    "name": "Martin",
+    "email": ""
+  }
+}

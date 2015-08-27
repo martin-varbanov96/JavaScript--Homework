@@ -1,0 +1,10 @@
+{
+  "name": "_03.DisplayOdd",
+  "version": "0.0.0",
+  "description": "03.DisplayOdd",
+  "main": "app.js",
+  "author": {
+    "name": "Martin",
+    "email": ""
+  }
+}

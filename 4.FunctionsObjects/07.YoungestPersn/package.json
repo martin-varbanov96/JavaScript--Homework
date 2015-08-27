@@ -1,0 +1,10 @@
+{
+  "name": "_07.YoungestPersn",
+  "version": "0.0.0",
+  "description": "07.YoungestPersn",
+  "main": "app.js",
+  "author": {
+    "name": "Martin",
+    "email": ""
+  }
+}

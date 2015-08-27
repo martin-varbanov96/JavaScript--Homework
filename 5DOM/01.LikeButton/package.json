@@ -1,0 +1,10 @@
+{
+  "name": "_01.LikeButton",
+  "version": "0.0.0",
+  "description": "01.LikeButton",
+  "main": "app.js",
+  "author": {
+    "name": "Martin",
+    "email": ""
+  }
+}

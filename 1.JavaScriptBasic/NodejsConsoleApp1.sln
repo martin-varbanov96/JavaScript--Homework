@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "NodejsConsoleApp1", "NodejsConsoleApp1\NodejsConsoleApp1.njsproj", "{E5797B66-C8F5-4B0C-B125-FE6F991CA4BD}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1.Alert", "1.Alert", "{C3DC3DF4-BAD4-4FD8-9F9A-21951502E2B3}"
+EndProject
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "Alert", "NodejsWebApp1\Alert.njsproj", "{B3ABF122-C84B-4ECC-817B-85EF473C229C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E5797B66-C8F5-4B0C-B125-FE6F991CA4BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5797B66-C8F5-4B0C-B125-FE6F991CA4BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5797B66-C8F5-4B0C-B125-FE6F991CA4BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5797B66-C8F5-4B0C-B125-FE6F991CA4BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E5797B66-C8F5-4B0C-B125-FE6F991CA4BD}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{B3ABF122-C84B-4ECC-817B-85EF473C229C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3ABF122-C84B-4ECC-817B-85EF473C229C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3ABF122-C84B-4ECC-817B-85EF473C229C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3ABF122-C84B-4ECC-817B-85EF473C229C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{B3ABF122-C84B-4ECC-817B-85EF473C229C} = {C3DC3DF4-BAD4-4FD8-9F9A-21951502E2B3}
+	EndGlobalSection
+EndGlobal

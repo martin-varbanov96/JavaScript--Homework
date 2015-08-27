@@ -1,0 +1,10 @@
+{
+  "name": "_3.DigitSum",
+  "version": "0.0.0",
+  "description": "3.DigitSum",
+  "main": "app.js",
+  "author": {
+    "name": "Martin",
+    "email": ""
+  }
+}

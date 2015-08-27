@@ -1,0 +1,10 @@
+{
+  "name": "_05.PrintMouseOver",
+  "version": "0.0.0",
+  "description": "05.PrintMouseOver",
+  "main": "app.js",
+  "author": {
+    "name": "Martin",
+    "email": ""
+  }
+}
